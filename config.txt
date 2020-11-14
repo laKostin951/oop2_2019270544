@@ -1,0 +1,5 @@
+najveciRadniciID = 0
+najveciPreduzeceID = 0
+najveciOdelejnnjeID = 0
+najveciDatumID = 0
+najveciKontaktID = 0

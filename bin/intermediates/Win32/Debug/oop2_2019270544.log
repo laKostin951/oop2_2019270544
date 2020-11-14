@@ -1,0 +1,23 @@
+﻿  Komercijalista.cpp
+  PoslovniKontakt.cpp
+  Racunovodja.cpp
+  Radnik.cpp
+  Revizor.cpp
+D:\predavanja+vezbe\oop2V\oop\singi-oop2-2020\projekat\models\Datum.hpp(11,10): error C2059: syntax error: ')'
+D:\predavanja+vezbe\oop2V\oop\singi-oop2-2020\projekat\models\Datum.hpp(12,49): error C2143: syntax error: missing ')' before '{'
+D:\predavanja+vezbe\oop2V\oop\singi-oop2-2020\projekat\models\Datum.hpp(10,10): error C2789: 'Datum::dan': an object of const-qualified type must be initialized
+D:\predavanja+vezbe\oop2V\oop\singi-oop2-2020\projekat\models\Datum.hpp(6): message : see declaration of 'Datum::dan'
+D:\predavanja+vezbe\oop2V\oop\singi-oop2-2020\projekat\models\Datum.hpp(10,10): error C2789: 'Datum::mesec': an object of const-qualified type must be initialized
+D:\predavanja+vezbe\oop2V\oop\singi-oop2-2020\projekat\models\Datum.hpp(7): message : see declaration of 'Datum::mesec'
+D:\predavanja+vezbe\oop2V\oop\singi-oop2-2020\projekat\models\Datum.hpp(10,10): error C2789: 'Datum::godina': an object of const-qualified type must be initialized
+D:\predavanja+vezbe\oop2V\oop\singi-oop2-2020\projekat\models\Datum.hpp(8): message : see declaration of 'Datum::godina'
+D:\predavanja+vezbe\oop2V\oop\singi-oop2-2020\projekat\models\Datum.hpp(12,49): error C2789: 'Datum::dan': an object of const-qualified type must be initialized
+D:\predavanja+vezbe\oop2V\oop\singi-oop2-2020\projekat\models\Datum.hpp(6): message : see declaration of 'Datum::dan'
+D:\predavanja+vezbe\oop2V\oop\singi-oop2-2020\projekat\models\Datum.hpp(12,49): error C2789: 'Datum::mesec': an object of const-qualified type must be initialized
+D:\predavanja+vezbe\oop2V\oop\singi-oop2-2020\projekat\models\Datum.hpp(7): message : see declaration of 'Datum::mesec'
+D:\predavanja+vezbe\oop2V\oop\singi-oop2-2020\projekat\models\Datum.hpp(12,49): error C2789: 'Datum::godina': an object of const-qualified type must be initialized
+D:\predavanja+vezbe\oop2V\oop\singi-oop2-2020\projekat\models\Datum.hpp(8): message : see declaration of 'Datum::godina'
+  main.cpp
+  mysqlConnector.cpp
+c1xx : fatal error C1083: Cannot open source file: 'mysqlConnector.cpp': No such file or directory
+  Generating Code...
